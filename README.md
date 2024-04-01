@@ -13,7 +13,7 @@ Important things:
   - To be able to use all features make sure you installed the latest beta version of Simhub. This enables you to map Dashboard buttons to the controller mapper.
 <br>
 <p>
-<b>Installation instructions:</b> https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/blob/main/Installation%20instructions.md
+<b>Installation instructions:</b> [https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/blob/main/Installation%20instructions.md](here)
 </p>
 <br>
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.<br>

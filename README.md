@@ -13,7 +13,8 @@ Important things:
   - To be able to use all features make sure you installed the latest beta version of Simhub. This enables you to map Dashboard buttons to the controller mapper.
 <br>
 <p>
-<b>Installation instructions:</b> [here](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashbord/blob/main/Installation%20instructions.md)
+<b>Installation instructions:</b> 
+  [here](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashbord/blob/main/Installation%20instructions.md)
 
 </p>
 <br>

@@ -15,7 +15,7 @@ Important things:
 <p>
 <b>Installation instructions:</b> 
 
-[here][https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashbord/blob/main/Installation%20instructions.md]
+[here](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashbord/blob/main/Installation%20instructions.md)
 
 </p>
 <br>

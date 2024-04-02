@@ -1,0 +1,289 @@
+{
+	"_comment": "Enjoy! :)",
+	"IRacing": {
+		"Global Settings": {
+			"DriverName": "Don Utz",
+			"CarNumber": "101",
+			"ThemeColor": "Green",
+			"textColor": "LightBlue",
+			"textColorNight": "LightBlue",
+			"textColorDay": "LightBlue",
+			"BackgroundColorNight": "#55A325B1",
+			"BackgroundColorDay": "Black",
+			"BackgroundColorDay_": "#FF242424",
+			"buttonShadowColorNight_": "#FF353535",
+			"buttonShadowColorNight": "#FF353535",
+			"buttonShadowColorDay": "Black",
+			"buttonShadowThikness": 2,
+			"defaultButtonColor": "#FF252525",
+			"nightModeDimPercentage": 40,
+			"enableStartFlag": true,
+			"enableBackgroundImage": true,
+			"DamageReportMapperRole": "Damage Report"
+		},
+		"HeaderLine Settings": {
+			"textColor": "LightBlue"
+		},
+		"FooterLine Settings": {
+			"textColor": "LightBlue"
+		},
+		"InfoBox Settings": {
+			"textColorFuelInfo": "LightBlue",
+			"textColorElectronicsInfo": "Yellow",
+			"textColorOtherInfo": "Yellow",
+			"fuelBoxBackgroundColor": "#992F2F2F",
+			"TCbgColor": "#FF00005E",
+			"ABSbgColor": "Indigo",
+			"INCbgColor": "#FF590E00",
+			"EngineMapbgColor": "DarkGreen",
+			"ThrottleMapbgColor": "DarkGreen",
+			"BrakeBiasbgColor": "DarkRed",
+			"StintbgColor": "#FF353535"
+		},
+		"In Car Settings": {
+			"enabled": true,
+			"BBIAS+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "BrakeBalanceFront"
+			},
+			"BBIAS-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "BrakeBalanceRear"
+			},
+			"TC+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "TractionControl+"
+			},
+			"TC-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "TractionControl-"
+			},
+			"TCC+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "TCC+"
+			},
+			"TCC-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "TCC-"
+			},
+			"ABS+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "ABS+"
+			},
+			"ABS-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "ABS-"
+			},
+			"ENGINEMAP+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "EngineMap+"
+			},
+			"ENGINEMAP-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "EngineMap-"
+			},
+			"THROTTLEMAP+": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "ThrottleMap+"
+			},
+			"THROTTLEMAP-": {
+				"textColor": "Orange",
+				"TriggerName": "",
+				"MapperRole": "ThrottleMap-"
+			}
+		},
+		"Custom Controls": {
+			"enabled": true,
+			"row1_button1": {
+				"label": "fan\nON/OFF",
+				"textColor": "LightBlue",
+				"TriggerName": "FanMainSwitch",
+				"MapperRole": null
+			},
+			"row1_button2": {
+				"label": "STATIC\nWIND",
+				"textColor": "LightBlue",
+				"TriggerName": "StaticWindToggle",
+				"MapperRole": null
+			},
+			"row1_button3": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row1_button3",
+				"MapperRole": null
+			},
+			"row1_button4": {
+				"label": "STATIC\nWIND +",
+				"textColor": "LightBlue",
+				"TriggerName": "StaticWind+",
+				"MapperRole": null
+			},
+			"row1_button5": {
+				"label": "SPEED\nWIND +",
+				"textColor": "LightBlue",
+				"TriggerName": "SpeedWind+",
+				"MapperRole": null
+			},
+			"row1_button6": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row1_button6",
+				"MapperRole": null
+			},
+			"row2_button1": {
+				"label": "SPEED\nWIND",
+				"textColor": "LightBlue",
+				"TriggerName": "SpeedWindToggle",
+				"MapperRole": null
+			},
+			"row2_button2": {
+				"label": "CURRENT\nWIND\nMODE",
+				"textColor": "LightBlue",
+				"TriggerName": "CurrentWindModeToggle",
+				"MapperRole": null
+			},
+			"row2_button3": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row2_button3",
+				"MapperRole": null
+			},
+			"row2_button4": {
+				"label": "STATIC\nWIND -",
+				"textColor": "LightBlue",
+				"TriggerName": "StaticWind-",
+				"MapperRole": null
+			},
+			"row2_button5": {
+				"label": "SPEED\nWIND -",
+				"textColor": "LightBlue",
+				"TriggerName": "SpeedWind-",
+				"MapperRole": null
+			},
+			"row2_button6": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row2_button6",
+				"MapperRole": null
+			},
+			"row3_button1": {
+				"label": "TOGGLE\nMIC",
+				"textColor": "Red",
+				"TriggerName": "custom_row3_button1",
+				"MapperRole": null
+			},
+			"row3_button2": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row3_button2",
+				"MapperRole": null
+			},
+			"row3_button3": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row3_button3",
+				"MapperRole": null
+			},
+			"row3_button4": {
+				"label": "",
+				"textColor": "LightBlue",
+				"TriggerName": "custom_row3_button4",
+				"MapperRole": null
+			}
+		},
+		"Dashboard Settings": {
+			"enabled": true,
+			"DashBoard1": {
+				"label": "Lovely Dashboard",
+				"labelVisible": true,
+				"textColor": "Gray",
+				"borderColor": "Transparent",
+				"row1_button1": {
+					"label": "PREV\nSCREEN",
+					"textColor": "Orange"
+				},
+				"row1_button2": {
+					"label": "TOP\nMFD",
+					"textColor": "Red"
+				},
+				"row1_button3": {
+					"label": "NEXT\nSCREEN",
+					"textColor": "Orange"
+				},
+				"row2_button1": {
+					"label": "LEFT\nMFD",
+					"textColor": "Red"
+				},
+				"row2_button2": {
+					"label": "FUEL\nBOX",
+					"textColor": "Red"
+				},
+				"row2_button3": {
+					"label": "RIGHT\nMFD",
+					"textColor": "Red"
+				}
+			},
+			"DashBoard2": {
+				"label": "DashBoard 2",
+				"labelVisible": true,
+				"textColor": "Blue",
+				"borderColor": "Transparent",
+				"row1_button1": {
+					"label": "PREV\nSCREEN",
+					"textColor": "Orange"
+				},
+				"row1_button2": {
+					"label": "ACTION\nA",
+					"textColor": "Red"
+				},
+				"row1_button3": {
+					"label": "NEXT\nSCREEN",
+					"textColor": "Orange"
+				},
+				"row2_button1": {
+					"label": "ACTION\nB",
+					"textColor": "Red"
+				},
+				"row2_button2": {
+					"label": "ACTION\nC",
+					"textColor": "Red"
+				},
+				"row2_button3": {
+					"label": "ACTION\nD",
+					"textColor": "Red"
+				}
+			},
+			"OtherButtons": {
+				"textColor": "Gray",
+				"borderColor": "Transparent",
+				"row1_button1": {
+					"label": "PREV\nCAR DASH",
+					"textColor": "Orange"
+				},
+				"row1_button2": {
+					"label": "NEXT\nCAR DASH",
+					"textColor": "Orange"
+				},
+				"row1_button3": {
+					"label": "DAY/\nNIGHT\nMODE",
+					"textColor": "Red"
+				},
+				"row1_button4": {
+					"label": "TIME\nBOX",
+					"textColor": "Orange"
+				}
+			}
+		}
+	}
+}

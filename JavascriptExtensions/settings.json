@@ -18,7 +18,7 @@
 			"defaultButtonColor": "#FF252525",
 			"nightModeDimPercentage": 40,
 			"enableStartFlag": true,
-			"enableBackgroundImage": true,
+			"enableBackgroundImage": false,
 			"DamageReportMapperRole": "Damage Report"
 		},
 		"HeaderLine Settings": {
@@ -184,22 +184,22 @@
 				"MapperRole": null
 			},
 			"row3_button2": {
-				"label": "",
+				"label": "TOGGLE\nMIRROR",
 				"textColor": "LightBlue",
 				"TriggerName": "custom_row3_button2",
-				"MapperRole": null
+				"MapperRole": "Mirror on/off"
 			},
 			"row3_button3": {
-				"label": "",
+				"label": "Start\nPoint",
 				"textColor": "LightBlue",
 				"TriggerName": "custom_row3_button3",
-				"MapperRole": null
+				"MapperRole": "Active Reset Save Start Point"
 			},
 			"row3_button4": {
-				"label": "",
+				"label": "Reset\nRun",
 				"textColor": "LightBlue",
 				"TriggerName": "custom_row3_button4",
-				"MapperRole": null
+				"MapperRole": "Active Reset Run"
 			}
 		},
 		"Dashboard Settings": {

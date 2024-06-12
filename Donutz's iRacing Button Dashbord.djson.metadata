@@ -1,18 +1,21 @@
 {
-  "SimHubVersion": "9.2.8b1",
+  "SimHubVersion": "9.3.0b1",
   "Category": null,
   "Title": "Donutz's iRacing Button Dashboard",
   "Description": "DIBD",
   "Author": "Oliver \"Don\" Utz",
-  "ScreenCount": 5.0,
+  "ScreenCount": 7.0,
   "InGameScreensIndexs": [
     0,
     1,
     2,
-    3
+    3,
+    4,
+    5
   ],
   "IdleScreensIndexs": [
-    4
+    4,
+    5
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
@@ -23,6 +26,8 @@
   "EnableOnDashboardMessaging": true,
   "PitScreensIndexs": [
     0,
-    1
+    1,
+    4,
+    5
   ]
 }
